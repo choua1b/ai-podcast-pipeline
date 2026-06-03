@@ -15,9 +15,8 @@
 
 <br/>
 
-> **Master's Curriculum Project** — Academic Year 2025–2026
 >
-> 👨‍🎓 **Student:** Chouaib Jbel &nbsp;|&nbsp; 👩‍🏫 **Supervisor:** Professor Ibtissam Bakkouri
+> 👨‍🎓 **Student:** Chouaib Jbel &nbsp;
 >
 > *A fully automated Python pipeline that generates a professional AI podcast video featuring two virtual characters discussing the future of Artificial Intelligence — with zero manual editing and zero budget.*
 
